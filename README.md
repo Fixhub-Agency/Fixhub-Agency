@@ -1,6 +1,6 @@
 # Hello, we are Fixhub 👋
 
-At Fixhub, we believe that **AI is powerful, and we enables it success**. We envision a future where AI-generated code doesn't just work in development—it thrives in production, delivering exceptional user experiences that businesses can rely on.
+At Fixhub, we believe that **AI is powerful, and we enable its success**. We envision a future where AI-generated code doesn't just work in development—it thrives in production, delivering exceptional user experiences that businesses can rely on.
 
 ### Why AI Code Needs Us
 
